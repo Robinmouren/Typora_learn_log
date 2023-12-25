@@ -54,4 +54,4 @@
 
 ![alt 属性文本] (图片地址 “可选标题”)
 
-![本地图片Screenshots.png](.\photo\Screenshots.png "屏幕截图")
+![本地图片Screenshots.png](https://github.com/Robinmouren/Typora_learn_log/blob/main/.%5Cphoto%5CScreenshots.png "屏幕截图")
